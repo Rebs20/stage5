@@ -1,61 +1,61 @@
 const products = [
     {
-        img: "./img/Cream Pomeranian.jpeg",
+        img: "img/Cream Pomeranian.jpeg",
         name: 'Cream Pomeranian puppy',
         price: 450
     },
     {
-        img: "./img/Cavachon.jpeg",
+        img: "img/Cavachon.jpeg",
         name: "Cavachon puppy",
         price: 360
     },
     {
-        img: "./img/American.jpeg",
+        img: "img/American.jpeg",
         name: "American Puppy",
         price: 200
     },
     {
-        img: "./img/cute little.jpeg",
+        img: "img/cute little.jpeg",
         name: "C-Little Puppy",
         price: 200
     },
     {
-        img: "./img/Golden.jpeg",
+        img: "img/Golden.jpeg",
         name: "Golden Puppy",
         price: 180
     },
     {
-        img: "./img/maltese dog.jpeg",
+        img: "img/maltese dog.jpeg",
         name: "Maltese Puppy",
         price: 200
     },
     {
-        img: "./img/maltese.jpeg",
+        img: "img/maltese.jpeg",
         name: "Maltese Puppy",
         price: 200 
     },
     {
-        img: "./img/Maltese2.jpeg",
+        img: "img/Maltese2.jpeg",
         name: "Maltese Puppy",
         price: 200
     },
     {
-        img: "./img/Red puppies.jpeg",
+        img: "img/Red puppies.jpeg",
         name: "Red Puppy",
         price: 250
     },
     {
-        img: "./img/Yorkie.jpeg",
+        img: "img/Yorkie.jpeg",
         name: "Yorkie Puppy",
         price: 300
     },
     {
-        img: "./img/pomeranian j.jpeg",
+        img: "img/pomeranian j.jpeg",
         name: "Pomeranian Puppy",
         price: 500
     },
     {
-        img: "./img/dog-team.jpeg",
+        img: "img/dog-team.jpeg",
         name: "Dog-team Puppy",
         price: 400
     }
