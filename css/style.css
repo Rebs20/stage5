@@ -27,3 +27,14 @@
     margin-top: 20px;
     margin-left: 100px;
 }
+
+.row img{
+    height: 300px !important
+  }
+  .row .row-4  img{
+      transition: all .5s ease-in-out
+  }
+  .row .row-4  img:hover{
+    transform: scale(.95);
+    transition: .5s transform ease-in-out;
+  }
