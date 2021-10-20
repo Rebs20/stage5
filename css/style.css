@@ -1,7 +1,11 @@
-* html,body {
+*, html,body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
+}
+body{
+    overflow-x: hidden;
 }
 .background{
     background-image: url(../img/background.webp);
@@ -38,3 +42,23 @@
     transform: scale(.95);
     transition: .5s transform ease-in-out;
   }
+
+  li {
+      list-style: none;
+  }
+  .overlay{
+      background: rgba(0,0,0, .7);
+      overflow-x: hidden;
+      height: 100%;
+      width: 100vw;
+      z-index:2
+  }
+  .container{
+      z-index: 999 !important;
+      height: 100%;
+  }
+      @media screen and (max-width: 576px){
+          footer :is(p, li){
+              font-size: 15px
+          }
+      }
